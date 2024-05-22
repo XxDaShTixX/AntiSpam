@@ -1,0 +1,10 @@
+#########################################
+# Author: Ali Dashti
+# Site: https://dashti.dev
+# Source: https://github.com/XxDaShTixX/McPlugin-AntiSpam/
+#
+# EnableAntiSpam: Enable or disable the plugin
+# SpamSeconds : Controls the message cooldown which triggers the spam alert
+#########################################
+EnableAntiSpam: true
+SpamSeconds: 2

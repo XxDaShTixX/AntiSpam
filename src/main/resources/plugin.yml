@@ -1,0 +1,39 @@
+author: Ali Dashti
+website: https://dashti.dev/
+name: AntiSpam
+version: 1.4
+api-version: 1.20
+main: dev.dashti.Plugin
+description: A Plugin for AntiSpam
+commands:
+  antispam:
+    description: Overview of AntiSpam plugin
+    usage: /<command>
+    permission-message: You need to be STAFF to gain access to this command
+  antispam help:
+    description: Display available commands
+    usage: /<command>
+  antispam reload:
+    description: Reloads AntiSpam plugin
+    usage: /<command>
+  antispam settime:
+    description: Sets the time interval in which considers chat spam
+    usage: /<command>
+    permission-message: You need to be STAFF to gain access to this command
+  antispam setenable:
+    description: Enables or disables the AntiSpam
+    usage: /<command>
+    permission-message: You need to be STAFF to gain access to this command
+permissions:
+  AntiSpam.*:
+    description: Permission for AntiSpam
+    children:
+      AntiSpam.Admin: true
+      AntiSpam.Exempt: true
+      AntiSpam.Staff: true
+  AntiSpam.Admin:
+    description: Permission for AntiSpam configurations
+  AntiSpam.Exempt:
+    description: Get exempted from spam restriction
+  AntiSpam.Staff:
+    description: Get notification when someone spams
