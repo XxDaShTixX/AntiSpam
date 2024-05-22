@@ -7,14 +7,14 @@ A Minecraft plugin that prevents players from spamming and notify staff without 
 https://dev.bukkit.org/projects/xxdashtixx-antispam
 
 # Commands
-- **/AntiSpam ** : Toggle ON / OFF
-- **/AntiSpam  help** : Lists all available commands
-- **/AntiSpam  reload** : Reloads config
-- **/AntiSpam  setenable** : Disables / enables the plugin
-- **/AntiSpam  settime ** : Set the cool down time (spam time)
+- **/AntiSpam** : Toggle ON / OFF
+- **/AntiSpam.help** : Lists all available commands
+- **/AntiSpam.reload** : Reloads config
+- **/AntiSpam.setenable** : Disables / enables the plugin
+- **/AntiSpam.settime** : Set the cool down time (spam time)
 
 # Permissions
-- **AntiSpam .*** : Grants all permissions
+- **AntiSpam.*** : Grants all permissions
 - **AntiSpam.Use** : Enables the spam restriction on the player
 - **AntiSpam.Exempt** : Exempts player from spam restriction
 - **AntiSpam.Staff** : Allows player to receive notification when another player spams
