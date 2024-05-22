@@ -31,6 +31,8 @@ permissions:
       AntiSpam.Admin: true
       AntiSpam.Exempt: true
       AntiSpam.Staff: true
+  AntiSpam.Use:
+    description: Restrict player from spamming
   AntiSpam.Admin:
     description: Permission for AntiSpam configurations
   AntiSpam.Exempt:
