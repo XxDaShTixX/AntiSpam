@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: "[Feature] "
+title: "[Feature] Add Ability to '...'"
 labels: 'Type: Feature'
 assignees: ''
 
