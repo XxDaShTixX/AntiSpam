@@ -38,4 +38,4 @@ Thank you for chosing to contribute to this project!
   
 If you are interested in contributing fixes or features, please read the contributors guide first.
 
-Enjoy & Have Fun!
+**Enjoy & Have Fun!**
