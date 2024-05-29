@@ -12,7 +12,7 @@ You should learn and be familiar with how to [use Git](https://help.github.com/a
 and how to [submit a Pull Request](https://help.github.com/articles/using-pull-requests/).
 
 ### Release Management Strategy
-This project has a `master` branch for stable releases and a `develop` branch for development. New features and fixes are always submitted to the `develop` branch.
+This project has a `main` branch for stable releases and a `develop` branch for development. New features and fixes are always submitted to the `develop` branch.
 
 ### What can I contribute?
 If you are looking for ways to help contributor to this project, you can either:  
