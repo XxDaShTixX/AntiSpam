@@ -29,8 +29,8 @@ Look under releases to find a release compatible with your version of Minecraft
 # 📃 Plugin Dependency
 None
 
-# 📃 Issues
-- Please report bugs or requests by submitting an issue with the right tag
+# 📃 Issues & Requests
+- Please report bugs, make requests or suggestions by submitting an issue with the right tag
 - Give as much detail as possible.
 
 # 📃 Contributions
