@@ -30,10 +30,10 @@ Look under releases to find a release compatible with your version of Minecraft
 None
 
 # 📃 Issues & Requests
-- Please report bugs, make requests or suggestions by submitting an issue with the right tag
+- Please report bugs, make requests or suggestions by [submitting an issue](../../issues) with the right tag
 - Give as much detail as possible.
 
 # 📃 Contributions
-If you are interested in contributing fixes or features, please read the contributors guide first.
+If you are interested in contributing fixes or features, please read the [CONTRIBUTING.md](/CONTRIBUTING.md) guide first.
 
 **Enjoy & Have Fun!**
