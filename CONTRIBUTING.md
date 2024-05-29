@@ -16,7 +16,7 @@ This project has a `master` branch for stable releases and a `develop` branch fo
 
 ### What can I contribute?
 If you are looking for ways to help contributor to this project, you can either:  
-* Start looking at the [tasks](https://github.com/XxDaShTixX/Minecraft-AntiSpam/issues) (if any); OR
+* Start looking at the [tasks](../../issues) (if any); OR
   * Please let us know if you plan to work on an open issue so that no duplicate work is being done.
 * You can work on whatever you think might be a cool feature to add to the project.
 
