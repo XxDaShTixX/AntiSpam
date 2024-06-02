@@ -20,11 +20,11 @@ If you are looking for ways to help contributor to this project, you can either:
   * Please let us know if you plan to work on an open issue so that no duplicate work is being done.
 * You can work on whatever you think might be a cool feature to add to the project.
 
-Either way, I look forward to your contributions.
+Either way, we look forward to your contributions.
 
 ### How do I start?
 * [Create a fork of this project](https://help.github.com/articles/fork-a-repo/).
-* [Create a branch](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) with your name (or any name).
+* [Create a branch](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) and name it `develop`.
 * Implement changes (features, bug fixes, etc.) to this new branch.
 * [Commit and push](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) changes to your newly created branch.
 * [Submit a Pull Request](https://help.github.com/articles/using-pull-requests/) to merge the newly created branch to the develop branch.
